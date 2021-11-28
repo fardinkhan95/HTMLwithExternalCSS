@@ -7,3 +7,11 @@ body {
 h1 {
   color: blue;
 }
+
+table,
+td,
+th {
+  background-color: rgb(186, 210, 219);
+  border: 1px solid black;
+  border-collapse: collapse;
+}
