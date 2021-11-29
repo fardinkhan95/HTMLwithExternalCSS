@@ -11,21 +11,45 @@ th {
   padding: 10px;
 }
 
-tfoot, thead {
-    color: blue;
+tfoot,
+thead {
+  color: blue;
 }
-tr :hover {background-color: crimson;}
-a {text-decoration: none;}
+tr :hover {
+  background-color: crimson;
+}
+a {
+  text-decoration: none;
+}
 table {
-    margin-left: auto;
-    margin-right: auto;
-    width: 15rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15rem;
 }
 img {
-    width: 35rem;
-    height: 20rem;
+  width: 35rem;
+  height: 20rem;
 }
-video{
-    width: auto;
-    height: auto;
+video {
+  width: auto;
+  height: auto;
+}
+ol {
+  list-style: none;
+  color: blue;
+}
+style .test1 {
+  background-color: rgb(243, 205, 205);
+  color: blue;
+}
+.test2 {
+  background-color: rgb(223, 209, 236);
+}
+.span1 {
+  color: brown;
+  font-weight: bold;
+}
+.span2 {
+  color: green;
+  font-weight: bold;
 }
